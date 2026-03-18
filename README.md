@@ -74,7 +74,7 @@ loan-default-risk-analysis/
 
 ---
 
-## Part 2 — Prediction Model
+## Part 2 —  Prediction Model
 
 | Step | Description | Key Output |
 |------|-------------|------------|
