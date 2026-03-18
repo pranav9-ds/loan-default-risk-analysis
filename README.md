@@ -149,7 +149,7 @@ The notebooks produce 25+ charts including:
 ## How to Run
 
 ```bash
-git clone https://github.com/Pranava31/loan-default-risk-analysis.git
+git clone https://github.com/pranav9-ds/loan-default-risk-analysis.git
 cd loan-default-risk-analysis
 pip install -r requirements.txt
 
